@@ -76,7 +76,17 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### חולצת ביתר 
+https://example.com/product/chvltst-bytr-14xl5u
+- Price: 29.00 ILS (sale, was 60.00 ILS)
+- Availability: Out of stock
+- Category: חולצת ביתר
+- SKU: אקסטרה סמול 
+- Brand: אקסטרה סמול
+- Description: חולצה במחיר טוב
+- Image: https://example.com/assets/product-1782705134778-tu4779.webp
 
 ---
 

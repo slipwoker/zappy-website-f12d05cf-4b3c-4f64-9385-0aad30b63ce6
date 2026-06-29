@@ -4,6 +4,20 @@
     <title>UrbanNest</title>
     <link>https://example.com</link>
     <description>Product feed for UrbanNest</description>
-    <lastBuildDate>Mon, 29 Jun 2026 03:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:05:08 GMT</lastBuildDate>
+    <item>
+      <g:id>9fe786c9-8b0b-4e42-bd2f-09af0c904e93</g:id>
+      <g:title>חולצת ביתר </g:title>
+      <g:description>חולצה במחיר טוב</g:description>
+      <g:link>https://example.com/product/chvltst-bytr-14xl5u</g:link>
+      <g:image_link>https://example.com/assets/product-1782705134778-tu4779.webp</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:sale_price>29.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אקסטרה סמול</g:brand>
+      <g:mpn>אקסטרה סמול </g:mpn>
+      <g:product_type>חולצת ביתר</g:product_type>
+    </item>
   </channel>
 </rss>

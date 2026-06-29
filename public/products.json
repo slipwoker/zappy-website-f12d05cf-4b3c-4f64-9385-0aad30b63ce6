@@ -1,8 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-29T03:52:32.637Z",
+  "generated_at": "2026-06-29T04:05:08.618Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "9fe786c9-8b0b-4e42-bd2f-09af0c904e93",
+      "slug": "chvltst-bytr-14xl5u",
+      "name": "חולצת ביתר ",
+      "name_translations": {},
+      "description": "<p>חולצת ביתר במחיר טוב</p>",
+      "short_description": "חולצה במחיר טוב",
+      "sku": "אקסטרה סמול ",
+      "brand": "אקסטרה סמול",
+      "price": 29,
+      "base_price": 60,
+      "sale_price": 29,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782705134778-tu4779.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://example.com/product/chvltst-bytr-14xl5u",
+      "categories": [
+        "חולצת ביתר"
+      ],
+      "updated_at": "2026-06-29T03:57:53.424Z"
+    }
+  ]
 }
