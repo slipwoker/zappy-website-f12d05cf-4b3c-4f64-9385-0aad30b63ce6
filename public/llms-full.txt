@@ -2,13 +2,13 @@
 
 An online clothing store targeting men and children, offering fashion products through a digital storefront. The store aims to provide a seamless online shopping experience for two distinct customer segments — adult men and kids — with a focus on apparel retail.
 
-Source: https://urbannest-f12d05cf.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את עולם האופנה החדש לגברים וילדים — UrbanNest
 
-URL: https://urbannest-f12d05cf.zappy5.app
+URL: https://example.com
 Description: UrbanNest מזמין אותך לחוויית קנייה אונליין יוקרתית ונגישה. בחר מבין קולקציות אופנה עדכניות לגברים וילדים באתר המסחר האלקטרוני המוביל. הצטרף עכשיו ותיהנה ממשלוח מהיר!
 
 גלה את עולם האופנה החדש לגברים וילדים — UrbanNest
@@ -472,7 +472,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## שדרג את הלוק עם טרנדים חמים — UrbanNest
 
-URL: https://urbannest-f12d05cf.zappy5.app/style-guide
+URL: https://example.com/style-guide
 Description: מדריך הסגנון של UrbanNest חושף את הסודות להרכ�ת הופעות מנצחות. קבל השראה, טיפים והמלצות חמות לעונה החדשה לגברים וילדים. היכנס וגלה את הסטייל המושלם שלך!
 
 שדרג את הלוק עם טרנדים חמים — UrbanNest
@@ -979,7 +979,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## הכירו את החזון שמאחורי המותג — UrbanNest
 
-URL: https://urbannest-f12d05cf.zappy5.app/about
+URL: https://example.com/about
 Description: ב-UrbanNest אנחנו מחוללים שינוי בעולם האופנה הדיגיטלית. קראו על הסיפור, הערכים והמחויבות שלנו לספק את חוויית הקנייה הטובה ביותר ללקוחותינו. בואו להיות חלק מהמשפחה!
 
 הכירו את החזון שמאחורי המותג — UrbanNest
@@ -1440,7 +1440,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## דברו איתנו, אנחנו כאן בשבילכם — UrbanNest
 
-URL: https://urbannest-f12d05cf.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה או בקשה מיוחדת? צוות UrbanNest זמין לתת מענה מהיר ואישי. צרו קשר עוד היום וקבלו סיוע מקצועי בכל נושא — מהתאמת מידה ועד ייעוץ סטיילינג חינם.
 
 דברו איתנו, אנחנו כאן בשבילכם — UrbanNest
@@ -1928,7 +1928,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## מוצרים
 
-URL: https://urbannest-f12d05cf.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - UrbanNest
 
 מוצרים - UrbanNest
@@ -2185,7 +2185,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## עגלת קניות
 
-URL: https://urbannest-f12d05cf.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - UrbanNest
@@ -2418,7 +2418,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## תשלום
 
-URL: https://urbannest-f12d05cf.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - UrbanNest
@@ -2837,7 +2837,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## התחברות
 
-URL: https://urbannest-f12d05cf.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - UrbanNest
@@ -3077,7 +3077,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## החשבון שלי
 
-URL: https://urbannest-f12d05cf.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - UrbanNest
@@ -3472,7 +3472,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## ההזמנה התקבלה!
 
-URL: https://urbannest-f12d05cf.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - UrbanNest
@@ -3729,7 +3729,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## מדיניות החזרות
 
-URL: https://urbannest-f12d05cf.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - UrbanNest
@@ -4015,7 +4015,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## פרטי המוצר
 
-URL: https://urbannest-f12d05cf.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - UrbanNest
 
 פרטי המוצר - UrbanNest
@@ -4250,7 +4250,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## מוצרים
 
-URL: https://urbannest-f12d05cf.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - UrbanNest
 
 מוצרים - UrbanNest
@@ -4509,7 +4509,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## מדיניות פרטיות
 
-URL: https://urbannest-f12d05cf.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4785,7 +4785,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## הצהרת נגישות
 
-URL: https://urbannest-f12d05cf.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5070,7 +5070,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## תנאי שימוש
 
-URL: https://urbannest-f12d05cf.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5374,7 +5374,7 @@ UrbanNest – חנות אופנה למשפחה המודרנית. בגדי גבר
 
 ## תודה שפניתם אלינו | UrbanNest
 
-URL: https://urbannest-f12d05cf.zappy5.app/contact-thank-you
+URL: https://example.com/contact-thank-you
 Description: UrbanNest - תודה שפניתם אלינו | UrbanNest
 
 תודה שפניתם אלינו | UrbanNest
