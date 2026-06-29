@@ -1,0 +1,105 @@
+# UrbanNest — Generative Engine Optimization Map
+
+> An online clothing store targeting men and children, offering fashion products through a digital storefront. The store aims to provide a seamless online shopping experience for two distinct customer segments — adult men and kids — with a focus on apparel retail.
+
+---
+
+## Pages
+
+### בית
+https://urbannest-f12d05cf.zappy5.app
+UrbanNest מזמין אותך לחוויית קנייה אונליין יוקרתית ונגישה. בחר מבין קולקציות אופנה עדכניות לגברים וילדים באתר המסחר האלקטרוני המוביל. הצטרף עכשיו ותיהנה ממשלוח מהיר!
+
+### מדריך סגנון
+https://urbannest-f12d05cf.zappy5.app/style-guide
+מדריך הסגנון של UrbanNest חושף את הסודות להרכ�ת הופעות מנצחות. קבל השראה, טיפים והמלצות חמות לעונה החדשה לגברים וילדים. היכנס וגלה את הסטייל המושלם שלך!
+
+### אודות UrbanNest
+https://urbannest-f12d05cf.zappy5.app/about
+ב-UrbanNest אנחנו מחוללים שינוי בעולם האופנה הדיגיטלית. קראו על הסיפור, הערכים והמחויבות שלנו לספק את חוויית הקנייה הטובה ביותר ללקוחותינו. בואו להיות חלק מהמשפחה!
+
+### צור קשר
+https://urbannest-f12d05cf.zappy5.app/contact
+יש שאלה או בקשה מיוחדת? צוות UrbanNest זמין לתת מענה מהיר ואישי. צרו קשר עוד היום וקבלו סיוע מקצועי בכל נושא — מהתאמת מידה ועד ייעוץ סטיילינג חינם.
+
+### Products
+https://urbannest-f12d05cf.zappy5.app/products
+המוצרים שלנו - UrbanNest
+
+### Cart
+https://urbannest-f12d05cf.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://urbannest-f12d05cf.zappy5.app/checkout
+תשלום
+
+### Login
+https://urbannest-f12d05cf.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://urbannest-f12d05cf.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://urbannest-f12d05cf.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://urbannest-f12d05cf.zappy5.app/product/:slug
+פרטי המוצר - UrbanNest
+
+### Category
+https://urbannest-f12d05cf.zappy5.app/category/:slug
+מוצרים - UrbanNest
+
+### תודה שפניתם אלינו | UrbanNest
+https://urbannest-f12d05cf.zappy5.app/contact-thank-you
+UrbanNest - תודה שפניתם אלינו | UrbanNest
+
+## Legal & Policy
+
+### Privacy Policy
+https://urbannest-f12d05cf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://urbannest-f12d05cf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://urbannest-f12d05cf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About UrbanNest
+An online clothing store targeting men and children, offering fashion products through a digital storefront. The store aims to provide a seamless online shopping experience for two distinct customer segments — adult men and kids — with a focus on apparel retail.
+
+## Target Audience
+- גברים וילדים
+- גברים עירוניים
+- הורים מודעי אופנה
+- אבות צעירים ובעלי אוריינטציה טכנולוגית
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://urbannest-f12d05cf.zappy5.app/sitemap.xml
+- Robots: https://urbannest-f12d05cf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://urbannest-f12d05cf.zappy5.app/llms-full.txt
+- Products (JSON): https://urbannest-f12d05cf.zappy5.app/products.json
+- Products (Google Merchant RSS): https://urbannest-f12d05cf.zappy5.app/product-feed.xml
